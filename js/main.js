@@ -22,5 +22,7 @@ gift.addEventListener("click", function() {
         listPre[1].style.opacity = "1";
         listPre[1].style.transform = "translateX(0)";
         console.log(listPre);
-        getEle("nen").style.backgroundColor = "black";
+        getEle("nen").style.background = "linear-gradient(180deg, rgba(149,209,222,1) 32%, rgba(223,144,197,1) 100%)"
+        // background: rgb(27,13,3);
+        // background: 
 });
