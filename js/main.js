@@ -14,7 +14,7 @@ const balloon = getEle("Myballoon");
 const listPre = document.getElementsByClassName("showGif");
 gift.addEventListener("click", function() {
     var den = getEle("theDen");
-        den.src = "./img/meLuu.jpg";
+        den.src = "./img/uyen.png";
         den.style.margin = '20px 0';
         listPre[0].style.display = 'block';
         listPre[1].style.display = 'block';
