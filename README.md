@@ -85,4 +85,4 @@ This project is open-source and free to use for personal purposes.
 ---
 
 ## Contact
-For any questions or suggestions, feel free to contact [your_email@example.com].
+For any questions or suggestions, feel free to contact [daongocanhkhoi@gmail.com].
